@@ -53,7 +53,7 @@
         <em>"I love you"</em>  without ever saying those words directly.
       </p>
       <p class="trans-chaos">
-        ( you probably didn't know that. or maybe you did. either way  noted 👀 )
+        ( I know you know that, as you have read a lot and a hopeless romantic like me )
       </p>
     </div>
   </div>

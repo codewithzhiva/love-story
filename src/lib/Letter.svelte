@@ -29,7 +29,7 @@
           Since then, we've been this wonderful, ridiculous thing  two people who are maybe a little too much, a little too loud, a little too prone to sending unhinged texts at midnight  and somehow perfectly matched in that.
         </p>
         <p>
-          And on March 10th, when I said <em>"the moon is beautiful today, isn't it?"</em>  I knew you knew. And just like that we both felt surreal out of nowhere.
+          On March 10th, when I said, ‘The moon is beautiful today, isn’t it?’ I knew you understood. And just like that, everything felt surreal.
         </p>
         <p>
           So today, when we finally stand in the same room  I just want you to know: you were thought of, carefully, before this moment ever arrived. You were worth every ridiculous, chaotic, heart-racing second of anticipation.
