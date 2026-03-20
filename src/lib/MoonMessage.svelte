@@ -40,7 +40,7 @@
   <div class="moon" aria-hidden="true">🌙</div>
 
   <div class="content">
-    <p class="label" use:reveal>March 10th — The Text</p>
+    <p class="label" use:reveal>March 10th  The Text</p>
 
     <div class="message-bubble" use:reveal={{ delay: 200 }}>
       <p class="message-text">{typed}<span class="cursor" class:blink={typed.length < msg.length}>|</span></p>
@@ -50,10 +50,10 @@
       <p class="trans-label">✦ &nbsp; what it actually means &nbsp; ✦</p>
       <p class="trans-text">
         In Japanese, "the moon is beautiful" is the most poetic way to say<br />
-        <em>"I love you"</em> — without ever saying those words directly.
+        <em>"I love you"</em>  without ever saying those words directly.
       </p>
       <p class="trans-chaos">
-        ( you probably didn't know that. or maybe you did. either way — noted 👀 )
+        ( you probably didn't know that. or maybe you did. either way  noted 👀 )
       </p>
     </div>
   </div>

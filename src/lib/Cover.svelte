@@ -51,7 +51,7 @@
   </div>
 
   <div class="content">
-    <p class="eyebrow">— a gift, for you —</p>
+    <p class="eyebrow"> a gift, for you </p>
 
     <h1>
       <span class="h1-for">For</span>

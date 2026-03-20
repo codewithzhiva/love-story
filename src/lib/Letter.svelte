@@ -20,19 +20,19 @@
 
       <div class="body">
         <p>
-          I've been trying to figure out how to start this for a while now. Every version I wrote felt too formal, too careful — and you are neither of those things. So I'll just say it plainly: I like you. Genuinely, openly, no-take-backs like you.
+          I've been trying to figure out how to start this for a while now. Every version I wrote felt too formal, too careful  and you are neither of those things. So I'll just say it plainly: I like you. Genuinely, openly, no-take-backs like you.
         </p>
         <p>
           It started at a wedding, of all places. Abi and Vishnu's, surrounded by flowers and music and people dancing with great confidence and questionable coordination. Somewhere in the middle of that gorgeous chaos, you looked at me. And I looked back. And that was the beginning of everything.
         </p>
         <p>
-          Since then, we've been this wonderful, ridiculous thing — two people who are maybe a little too much, a little too loud, a little too prone to sending unhinged texts at midnight — and somehow perfectly matched in that.
+          Since then, we've been this wonderful, ridiculous thing  two people who are maybe a little too much, a little too loud, a little too prone to sending unhinged texts at midnight  and somehow perfectly matched in that.
         </p>
         <p>
-          And on March 10th, when you said <em>"the moon is beautiful today, isn't it?"</em> — I knew you knew. And you knew I knew. And we both pretended it was just a casual observation about the sky.
+          And on March 10th, when I said <em>"the moon is beautiful today, isn't it?"</em>  I knew you knew. And just like that we both felt surreal out of nowhere.
         </p>
         <p>
-          So today, when we finally stand in the same room — I just want you to know: you were thought of, carefully, before this moment ever arrived. You were worth every ridiculous, chaotic, heart-racing second of anticipation.
+          So today, when we finally stand in the same room  I just want you to know: you were thought of, carefully, before this moment ever arrived. You were worth every ridiculous, chaotic, heart-racing second of anticipation.
         </p>
         <p>
           Come as you are. Goofy, chaotic, and entirely yourself.<br />
@@ -42,7 +42,7 @@
 
       <div class="signature">
         With the moon as witness,
-        <strong>— yours 🌙</strong>
+        <strong> yours 🌙</strong>
       </div>
     </div>
   </div>

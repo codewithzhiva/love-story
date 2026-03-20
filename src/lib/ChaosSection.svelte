@@ -87,7 +87,7 @@
       </div>
     {:else}
       <p class="hint" use:reveal={{ delay: 300 }}>
-        ({ clicked.filter(Boolean).length }/{traits.length} checked — keep going)
+        ({ clicked.filter(Boolean).length }/{traits.length} checked  keep going)
       </p>
     {/if}
   </div>

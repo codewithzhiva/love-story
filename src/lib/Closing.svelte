@@ -5,22 +5,22 @@
     {
       icon: "🤝",
       title: "Your hand, first.",
-      body: "When I reach for someone's hand, it will be yours. When I lean in for the first time, it will be toward you. Every first — yours. Not because I have to, but because I want no one else."
+      body: "When I reach for someone's hand, it will be yours. When I lean in for the first time, it will be toward you. Every first  yours. Not because I have to, but because I want no one else."
     },
     {
       icon: "🌱",
       title: "Not just how you look.",
-      body: "Yes, I noticed you at the dance floor. Of course I did. But that was the door, not the house. What keeps me here is the way your mind works, the chaos you carry, the warmth underneath all of it. Your glow comes from who you are — not just how you appear."
+      body: "Yes, I noticed you at the dance floor. Of course I did. But that was the door, not the house. What keeps me here is the way your mind works, the chaos you carry, the warmth underneath all of it. Your glow comes from who you are  not just how you appear."
     },
     {
       icon: "🌊",
       title: "This goes deeper than the surface.",
-      body: "Attraction fades if that's all there is. What I'm interested in is the long version of you — the messy mornings, the weird opinions, the things you're still figuring out. I want the depth, Rathi. Not just the highlight reel."
+      body: "Attraction fades if that's all there is. What I'm interested in is the long version of you  the messy mornings, the weird opinions, the things you're still figuring out. I want the depth, Rathi. Not just the highlight reel."
     },
     {
       icon: "🛡️",
-      title: "Whatever comes — I'm here.",
-      body: "I don't know what the future looks like. Nobody does. But I can tell you this: wherever we are, whatever happens between now and then — I will show up for you. Not perfectly. But honestly, and always."
+      title: "Whatever comes  I'm here.",
+      body: "I don't know what the future looks like. Nobody does. But I can tell you this: wherever we are, whatever happens between now and then  I will show up for you. Not perfectly. But honestly, and always."
     }
   ];
 </script>
@@ -51,7 +51,7 @@
         has nothing to do with how you look.<br />
         It's the way you <em>light up a room</em> by simply being yourself."
       </p>
-      <p class="glow-attr">— Shiva, to Rathi</p>
+      <p class="glow-attr"> Shiva, to Rathi</p>
     </div>
   </div>
 </section>
@@ -74,7 +74,7 @@
       The waiting is over.<br />
       All the texts, all the chaos, all the<br />
       <em>perfectly ordinary extraordinary moments</em><br />
-      — they all led to this room.
+       they all led to this room.
     </p>
 
     <div class="divider" use:reveal={{ delay: 220 }} aria-hidden="true">

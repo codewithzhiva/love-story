@@ -6,7 +6,7 @@
       date: 'February 9th',
       emoji: '💃',
       title: "Abi & Vishnu's Wedding",
-      body: "Somewhere between the music and the marigolds, across a crowded dance floor — your eyes found mine. Neither of us looked away fast enough. And that was that.",
+      body: "Somewhere between the music and the marigolds, across a crowded dance floor  your eyes found mine. Neither of us looked away fast enough. And that was that.",
       accent: 'rose',
       chaos: "( neither of us will admit who looked first )"
     },
@@ -22,7 +22,7 @@
       date: 'March 10th',
       emoji: '🌙',
       title: '"The Moon Is Beautiful Today, Isn\'t It?"',
-      body: 'You said it like it was casual. It wasn\'t casual. "The moon is beautiful" — that\'s the oldest confession in the world, and you said it like you were talking about weather.',
+      body: 'You said it like it was casual. It wasn\'t casual. "The moon is beautiful"  that\'s the oldest confession in the world, and you said it like you were talking about weather.',
       accent: 'moon',
       chaos: "( smooth. very smooth. 10/10. )"
     },
@@ -30,7 +30,7 @@
       date: 'Today',
       emoji: '✨',
       title: "Finally, In Person",
-      body: "Everything that started with a glance and grew through late-night chaos texts — it all arrives here. Right now. This moment.",
+      body: "Everything that started with a glance and grew through late-night chaos texts  it all arrives here. Right now. This moment.",
       accent: 'rose',
       chaos: "( yes this is still us being chaotic )"
     }
